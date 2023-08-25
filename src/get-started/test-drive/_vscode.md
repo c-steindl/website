@@ -22,7 +22,7 @@ contains a simple demo app that uses [Material Components][].
 ## Run the app
 
 1. Locate the VS Code status bar
-   (the blue bar at the bottom of the window):<br>
+   (the bar at the bottom of the window):<br>
    ![status bar][]{:.mw-100.pt-1.pb-2}
 
 1. Select a device from the **Device Selector** area.
